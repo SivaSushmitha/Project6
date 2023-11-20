@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+header{
+    background-color:rgb(92, 89, 89);
+    color:white;
+    padding: 20px;
+
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    padding: 20px;
+    color:pink;
+    font-size: 20px;
+}
+#Home img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+#Bio p{
+    margin-right: 180px;
+    margin-left: 180px;
+}
+#Portfolio{
+    background-color: bisque;
+    padding: 10px;
+}
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    color:azure;
+    padding: 30px;
+}
